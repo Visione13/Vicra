@@ -1,2 +1,2 @@
 # Vicra
-Vicra is an easy Miecraft Modpack Manager for my Minecraft Server Projects
+Vicra is an easy Minecraft Modpack Manager for my Minecraft Server Projects
